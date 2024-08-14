@@ -1,7 +1,7 @@
 import random
 import string
 
-words = ["hello","dinner","photosynthesis","quarterback"]
+words = ["hello","dinner","photosynthesis","quarterback", "happy", "love","hate", "Johannesburg", "boxing", "mortgage", "bankruptcy","antetokounmpo"]
 
 
 clues = []
